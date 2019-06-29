@@ -1,2 +1,2 @@
 # cs_workshops
-Stuff I made for programming lessons
+Some materials I made to help me structure programming lessons for high school students.
